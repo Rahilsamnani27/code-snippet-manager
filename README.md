@@ -61,11 +61,4 @@ Code Snippet Manager is a web application designed to help developers organize, 
 - Version Control: Add version history for snippets to track changes over time.
 - Export/Import: Allow users to export their snippets or import from other sources.
 
-## Contributing
-
-Contributions to the Code Snippet Manager project are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
 
